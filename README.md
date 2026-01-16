@@ -37,18 +37,13 @@ Unity Junior Developer focused on creating engaging gameplay mechanics, clean co
 - **Status:** In Progress
 ---
 
-### 📈 GitHub Stats & Metrics
-
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Fedulaev&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedulaev&langs_count=5&theme=tokyonight)]()
-
-
 ---
 
 ### 🌱 Currently...
-- **Working on:** A 3D puzzle-platformer to master animation rigging and timeline.
+- **Working on:** 3d multiplayer fishing game with rpg elements.
 - **Learning:** Advanced C# patterns, Shader Graph basics, and multiplayer fundamentals.
 - **Exploring:** The intersection of indie game dev and agile methodologies.
+- **Looking for:** Team.
 
 ### 🤝 Let's Connect & Collaborate!
 - I’m eager to collaborate on indie game jams.
