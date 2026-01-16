@@ -39,7 +39,9 @@ Unity Junior Developer focused on creating engaging gameplay mechanics, clean co
 
 ### 📈 GitHub Stats & Metrics
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fedulaev&show_icons=true)  
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Fedulaev&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Fedulaev&langs_count=5&theme=tokyonight)]()
+
 
 ---
 
@@ -52,7 +54,5 @@ Unity Junior Developer focused on creating engaging gameplay mechanics, clean co
 - I’m eager to collaborate on indie game jams.
 
 ### 📫 How to reach me:
-- **Email:** Fedulaev.Michael@yandex.ru)
+- **Email:** Fedulaev.Michael@yandex.ru
 - **Telegram** @cnwilebduej
-
-- 
